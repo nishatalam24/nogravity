@@ -1,0 +1,4 @@
+/* write your css here */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
